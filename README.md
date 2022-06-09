@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucassantos251
 - 👀 I’m interested in Web Developing.
-- 🌱 I’m currently learning HTML, CSS and Java.
+- 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 💞️ I’m looking to collaborate on .
 - 📫 How to reach me 
 
